@@ -1,2 +1,1 @@
-# identifica-o-bot-nica-SL
-Identificação botânica
+# Identificação botânica
